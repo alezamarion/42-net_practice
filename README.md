@@ -21,7 +21,7 @@ Esse Protocolo é estabelecido na Camada de rede do Modelo OSI e Suíte TCP/IP;
 <img src="netpractice.png">
 
 ## My grade
-<img src="grade_netpractice.png">
+<img src="score.png">
 
 ## Skills
 Rigor <br>
