@@ -28,11 +28,10 @@ Rigor <br>
 Network & system administration 
 
 ## Flowchat:
-<img src="philo/img/philo.png">
-<img src="philo/img/classesIP.png">
-<img src="philo/img/ipv4.png">
-<img src="philo/img/mask.png">
-<img src="philo/img/subredes.png">
+<img src="classesIP.png">
+<img src="ipv4.png">
+<img src="mask.png">
+<img src="subredes.png">
 
 ### Made with: <br/>
 
