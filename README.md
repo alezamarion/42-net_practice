@@ -24,8 +24,8 @@ Esse Protocolo é estabelecido na Camada de rede do Modelo OSI e Suíte TCP/IP;
 <img src="score.png">
 
 ## Skills
-Rigor <br>
-Network & system administration 
+- Rigor <br>
+- Network & system administration 
 
 ## Flowchat:
 <img src="classesIP.png">
