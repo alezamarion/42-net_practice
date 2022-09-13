@@ -6,7 +6,7 @@ The network configuration is done through the IPv4 Protocol!
 What is the IP Protocol?
 Internet Protocol: The communication protocol of the internet;
 It is responsible for addressing and packets that travel over the internet;
-This Protocol is established at the Network Layer of the OSI Model and TCP/IP Suite;
+This Protocol is established at the Network Layer of the OSI Model and TCP/IP Suite;<br>
 
 ----------------------------------------------------------------------------------------
 Projeto tem a finalidade de configurar corretamente redes simples Manipulando os IPs e Máscara de endereçamento.
@@ -15,7 +15,7 @@ A configuração da rede é feita através do Protocolo IPv4!
 O que é o Protocolo IP?
 Internet Protocol: O protocolo de comunicação da internet;
 Ele é responsável por endereçar e encaminhar os pacotes que trafegam pela internet;
-Esse Protocolo é estabelecido na Camada de rede do Modelo OSI e Suíte TCP/IP;
+Esse Protocolo é estabelecido na Camada de rede do Modelo OSI e Suíte TCP/IP;<br>
 
 ## Badge
 <img src="netpractice.png">
