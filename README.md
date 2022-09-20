@@ -33,7 +33,7 @@ Esse Protocolo é estabelecido na Camada de rede do Modelo OSI e Suíte TCP/IP;<
 <img src="mask.png">
 <img src="subredes.png"><br>
 
-### Made with: <br/>
+### Made with:
 
 ### Alexandre Zamarion
 <div style="display: inline_block">
