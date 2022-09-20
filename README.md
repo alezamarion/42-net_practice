@@ -31,7 +31,7 @@ Esse Protocolo é estabelecido na Camada de rede do Modelo OSI e Suíte TCP/IP;<
 <img src="classesIP.png">
 <img src="ipv4.png">
 <img src="mask.png">
-<img src="subredes.png">
+<img src="subredes.png"><br>
 
 ### Made with: <br/>
 
